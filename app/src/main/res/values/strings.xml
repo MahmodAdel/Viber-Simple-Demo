@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ViperSimpleDemo</string>
+    <string name="main_title">Album</string>
+    <string name="detail_title">Album Detail</string>
+    <string name="empty_data">Oops! Something went wrong</string>
+</resources>
